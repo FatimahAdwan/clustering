@@ -6,4 +6,4 @@ the pipelines are:
 - perform some quich EDA 
 - use Kmeans Algorith to create segments?clusters
 - use Summary statistics on the clusters
-- Visualize
+- Visualize.
